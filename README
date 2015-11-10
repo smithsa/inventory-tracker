@@ -1,0 +1,32 @@
+ITracker
+Version 1.0
+Release date: 11/29/2012
+
+== Project state ==
+ beta
+ 
+== Credits ==
+Sad'e N. Smith, smithsade13@gmail.com
+
+== Project description ==
+ITracker records the sale of inventory items and generates reports based
+on these sales. Specifically made for Mail Services at Carleton College.
+It was created to provide an electronic way to track sales and inventory.
+
+== Documentation ==
+Find user documentation @ https://sites.google.com/site/itrackeruserguide/
+
+== Requirements ==
+Updated version of Java (JRE)
+
+== Installation instructions ==
+A zipped file can be downloaded @ https://bitbucket.org/smithsa/inventory-application/downloads
+Run the program from the executable jar named ITracker
+
+== Additional Notes ==
+There are 4 files that are crucial for the program to run, which are in the location
+the jar file is running. DO NOT DELETE
+(1) Postage Inventory
+(2) Stock Inventory
+(3) Postage Sales
+(4) Stock Sales
