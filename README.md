@@ -27,7 +27,7 @@ Run the program from the executable jar named ITracker
 
 Find full user documentation @ https://sites.google.com/site/itrackeruserguide/
 
-# Additional Notes
+## Additional Notes
 
 There are 4 files that are crucial for the program to run, which are in the location
 the jar file is running. DO NOT DELETE
