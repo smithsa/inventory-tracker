@@ -1,4 +1,4 @@
-# ITracker
+# ITracker (Invetory Tracker)
 Version 1.0
 
 Release date: 11/29/2012
@@ -44,7 +44,7 @@ the jar file is running. DO NOT DELETE
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-# License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 MIT © [Sade Smith](http://sadesmith.com)
