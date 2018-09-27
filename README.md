@@ -1,5 +1,6 @@
 # ITracker
 Version 1.0
+
 Release date: 11/29/2012
 
 ITracker records the sale of inventory items and generates reports based
